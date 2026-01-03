@@ -1,4 +1,4 @@
-![Piedra Papel Tijera](https://i.imgur.com/nl5iH68.gif)
+![Piedra Papel Tijera](https://raw.githubusercontent.com/robertodfj/rock-paper-scissors/refs/heads/main/nl5iH68.gif)
 
 # 🎥✊✋✌️ Piedra, Papel o Tijera con Cámara – Proyecto en Java
 
